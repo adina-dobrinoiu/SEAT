@@ -1,5 +1,4 @@
-# Annotating Values with Language Models
-
+# Taking a SEAT: Predicting Value Interpretations from Sentiment, Emotion, Argument, and Topic Annotations
 This repository aims to automatically annotate sentences with human values based on previous annotations of other subjective tasks (argument, topic, emotion, and sentiment). It supports both task-specific and multi-task setups (detecting value based on only one task or all), using a K-nearest neighbor retrieval strategy for selecting examples for the few-shot prompt.
 
 ## Method Overview
