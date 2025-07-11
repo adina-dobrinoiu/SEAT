@@ -1,0 +1,12 @@
+bitsandbytes:
+  bnb_4bit_quant_type: nf4
+  bnb_4bit_compute_dtype: bfloat16
+  bnb_4bit_use_double_quant: false
+  load_in_4bit: true
+
+use_local_model: false
+# if local model -> use_local_model = true
+hf_model_folder: /home/folder
+base_model_name: meta-llama/Meta-Llama-3.1-8B-Instruct
+#  if HF model from hub -> use_local_model = false
+hf_token: "your_token"

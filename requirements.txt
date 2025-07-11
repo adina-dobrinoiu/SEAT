@@ -1,0 +1,10 @@
+jupyter
+datasets>=2.10.0
+pandas
+pyyaml
+transformers>=4.32.0
+sentence-transformers
+scikit-learn
+bitsandbytes
+accelerate
+matplotlib

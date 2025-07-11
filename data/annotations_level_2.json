@@ -1,0 +1,1902 @@
+[
+  {
+    "sentence": "I assign points to both \"The municipality takes the lead and unburdens\" and to \"Residents do it themselves\". This seems contradictory, and it is. Nevertheless, I also think the residents' own initiative is important. For support, for social cohesion, but also for management. A local cooperative will be able to supply energy significantly cheaper than a commercial party. I have a hesitation about sustainability. People move, neighborhoods change, engagement can become less. To what extent can a cooperative guarantee that everyone always has access to energy?",
+    "argument": {
+      "Annotator_1": "( I also think the residents' own initiative is important)",
+      "Annotator_2": "(The residents' own initiative is important)",
+      "Annotator_3": "(the residents' own initiative is important) AND (People move, neighborhoods change, engagement can become less.)",
+      "Annotator_4": "(the residents' own initiative is important. For support, for social cohesion, but also for management) AND (A local cooperative will be able to supply energy significantly cheaper than a commercial party)",
+      "Annotator_5": "(A local cooperative will be able to supply energy significantly cheaper than a commercial party)"
+    },
+    "emotion": {
+      "Annotator_1": "approval, confusion, curiosity",
+      "Annotator_2": "annoyance, curiosity, disappointment",
+      "Annotator_3": "nervousness, optimism",
+      "Annotator_4": "nervousness, optimism, pride",
+      "Annotator_5": "approval, confusion, curiosity, nervousness"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Neutral"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Energy storage and supplying energy in The Netherlands, Market Determination Dynamics",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Self-direction: thought, Universalism: objectivity",
+      "Annotator_2": "Benevolence: caring, Security: personal, Self-direction: action",
+      "Annotator_3": "Power: dominance, Security: personal, Security: societal, Universalism: concern",
+      "Annotator_4": "Self-direction: action, Universalism: concern",
+      "Annotator_5": "Achievement, Power: dominance, Security: societal, Self-direction: action, Self-direction: thought, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "Given the installation of wind turbines in IJsselmeer, it would increase the effectiveness of this form of energy generation if efficient storage can take place.",
+    "argument": {
+      "Annotator_1": "(Given the installation of wind turbines in IJsselmeer)",
+      "Annotator_2": "(it would increase the effectiveness of this form of energy generation)",
+      "Annotator_3": "(the installation of wind turbines in Ijsselmeer)",
+      "Annotator_4": "None",
+      "Annotator_5": "(it would increase the effectiveness of this form of energy generation)"
+    },
+    "emotion": {
+      "Annotator_1": "optimism",
+      "Annotator_2": "desire, optimism, realization",
+      "Annotator_3": "neutral",
+      "Annotator_4": "neutral",
+      "Annotator_5": "admiration, approval, desire, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Very positive"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Energy storage and supplying energy in The Netherlands, Wind and solar energy",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands, Wind and solar energy",
+      "Annotator_4": "Wind and solar energy",
+      "Annotator_5": "Energy storage in The Netherlands, Wind and solar energy"
+    },
+    "values": {
+      "Annotator_1": "Universalism: nature, Universalism: objectivity",
+      "Annotator_2": "Universalism: nature",
+      "Annotator_3": "Achievement, Universalism: objectivity",
+      "Annotator_4": "Universalism: objectivity",
+      "Annotator_5": "Universalism: nature, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "Coordination and distribution over the entire municipality As an independent party, the municipality can make the choice between the interests of individuals and residential communities",
+    "argument": {
+      "Annotator_1": "(as an independent party)",
+      "Annotator_2": "None",
+      "Annotator_3": "(an independent party)",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "realization",
+      "Annotator_2": "curiosity",
+      "Annotator_3": "approval",
+      "Annotator_4": "caring, optimism",
+      "Annotator_5": "approval, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Very negative",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Neutral"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector"
+    },
+    "values": {
+      "Annotator_1": "Self-direction: action, Self-direction: thought",
+      "Annotator_2": "Security: societal",
+      "Annotator_3": "Security: societal, Universalism: objectivity",
+      "Annotator_4": "Security: societal, Universalism: concern",
+      "Annotator_5": "Security: societal"
+    }
+  },
+  {
+    "sentence": "I would like to see a large field of solar panels, worn by the inhabitants themselves, paid for by the inhabitants themselves, the moment a resident leaves for the area he should be able to sell his part back, new residents should also be able to buy a part. In this way, you as a municipality become self-sufficient while it is affordable for the vast majority of residents. Residents who would not be able to participate financially, must be able to use the solar energy, as they currently purchase electricity from their supplier.",
+    "argument": {
+      "Annotator_1": "(while it is affordable for the vast majority of residents)",
+      "Annotator_2": "(municipality become self-sufficient while it is affordable for the vast majority of residents)",
+      "Annotator_3": "(it is affordable for the vast majority of residents)",
+      "Annotator_4": "(you as a municipality become self-sufficient while it is affordable for the vast majority of residents) AND (they currently purchase electricity from their supplier)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "caring, desire, optimism",
+      "Annotator_2": "approval, desire, optimism",
+      "Annotator_3": "caring, optimism",
+      "Annotator_4": "caring, excitement, optimism",
+      "Annotator_5": "approval, caring, desire, excitement, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Very positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Very positive"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Wind and solar energy",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Wind and solar energy, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Security: personal, Self-direction: action",
+      "Annotator_2": "Benevolence: caring, Security: personal, Security: societal, Self-direction: action, Universalism: nature",
+      "Annotator_3": "Achievement, Benevolence: caring, Face, Security: personal",
+      "Annotator_4": "Self-direction: action, Universalism: concern, Universalism: nature, Universalism: tolerance",
+      "Annotator_5": "Achievement, Benevolence: dependability, Conformity: rules, Power: dominance, Power: resources, Security: societal, Self-direction: action, Self-direction: thought, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "With more storage, more energy can perhaps be stored at peak times that can be used at another time.  (i.e. ultimately generate less in total capacity)",
+    "argument": {
+      "Annotator_1": "(with more storage)",
+      "Annotator_2": "(With more storage, more energy can perhaps be stored at peak times)",
+      "Annotator_3": "(more storage)",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "realization",
+      "Annotator_2": "annoyance, desire, disappointment, excitement, optimism, realization, sadness, suprise",
+      "Annotator_3": "curiosity",
+      "Annotator_4": "neutral",
+      "Annotator_5": "approval, desire, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Very negative",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Very positive"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Energy storage in The Netherlands"
+    },
+    "values": {
+      "Annotator_1": "Universalism: nature, Universalism: objectivity",
+      "Annotator_2": "Benevolence: caring, Universalism: nature, Universalism: objectivity, Universalism: tolerance",
+      "Annotator_3": "Achievement, Universalism: objectivity",
+      "Annotator_4": "Universalism: nature, Universalism: objectivity",
+      "Annotator_5": "Universalism: nature, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "Here I have given 10 points. A fairly large wind farm is already coming near me, between Zurich and Witmarsum.  I think that's enough for Súdwest-Fryslân.  The idea of making Súdwest-Fryslân the supplier of the Netherlands seems to me to be a bad idea.  We have wind here, so let's limit ourselves to windmills. Then other parts of the country can invest in large-scale solar parks with less wind. Please share the burden.",
+    "argument": {
+      "Annotator_1": "( A fairly large wind farm is already coming near me, between Zurich and Witmarsum) AND (We have wind here, so let's limit ourselves tp windmills)",
+      "Annotator_2": "(We have wind here, so let's limit ourselves to windmills)",
+      "Annotator_3": "(We have wind here)",
+      "Annotator_4": "(A fairly large wind farm is already coming near me, between Zurich and Witmarsum) AND (We have wind here)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance, caring, disapproval",
+      "Annotator_2": "annoyance, disapproval",
+      "Annotator_3": "annoyance, disapproval",
+      "Annotator_4": "anger, annoyance, disapproval",
+      "Annotator_5": "annoyance, disappointment, disapproval"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat negative",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat negative",
+      "Annotator_5": "Very negative"
+    },
+    "topic": {
+      "Annotator_1": "Wind and solar energy",
+      "Annotator_2": "Energy storage and supplying energy in The Netherlands, Wind and solar energy",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands, Wind and solar energy",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Wind and solar energy"
+    },
+    "values": {
+      "Annotator_1": "Universalism: objectivity",
+      "Annotator_2": "Benevolence: dependability, Conformity: rules, Power: dominance, Security: societal, Self-direction: action, Self-direction: thought, Universalism: nature, Universalism: objectivity",
+      "Annotator_3": "Benevolence: caring, Face, Power: dominance, Self-direction: thought, Universalism: nature",
+      "Annotator_4": "Benevolence: dependability, Self-direction: action, Universalism: concern, Universalism: nature",
+      "Annotator_5": "Universalism: concern, Universalism: nature, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "The market is not a reliable partner. The yield is important and nature and the environment are secondary, if damage occurs there then so be it. Until now, the working method was as just described. Perhaps the municipality can play a coercive role in this and only cooperate with market parties if the damage is 0 or repaired as much as possible at the expense of the market party.",
+    "argument": {
+      "Annotator_1": "(The yield is important) AND (nature and the environment are secondary)",
+      "Annotator_2": "(The market is not a reliable partner)",
+      "Annotator_3": "(The yield is important and nature and the environment are secondary, if damage occurs there then so be it)",
+      "Annotator_4": "(The market is not a reliable partner) AND (The yield is important and nature and the environment are secondary)",
+      "Annotator_5": "(The yield is important and nature and the environment are secondary)"
+    },
+    "emotion": {
+      "Annotator_1": "disapproval, optimism",
+      "Annotator_2": "anger, annoyance, disappointment, disapproval",
+      "Annotator_3": "curiosity, disapproval",
+      "Annotator_4": "anger, disappointment, optimism",
+      "Annotator_5": "caring, disappointment, disapproval, nervousness"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat negative",
+      "Annotator_2": "Very negative",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Somewhat negative",
+      "Annotator_5": "Very negative"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_4": "Market Determination Dynamics",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Universalism: nature",
+      "Annotator_2": "Achievement, Power: resources, Universalism: objectivity",
+      "Annotator_3": "Self-direction: thought, Universalism: concern, Universalism: nature",
+      "Annotator_4": "Benevolence: dependability, Security: societal, Universalism: nature",
+      "Annotator_5": "Conformity: rules, Security: societal, Universalism: nature, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "With this proposal it is of course difficult because you have to have so many enerie generators. So I actually think this is a difficult statement, but I think the idea of helping certain parts of the Netherlands through sustainable energy is a good idea that needs to be used more.",
+    "argument": {
+      "Annotator_1": "(you have to have so many enerie generators)",
+      "Annotator_2": "(helping certain parts of the Netherlands through sustainable energy)",
+      "Annotator_3": "(you have to have so many enerie generators)",
+      "Annotator_4": "(you have to have so many enerie generators)",
+      "Annotator_5": "(you have to have so many energie generators)"
+    },
+    "emotion": {
+      "Annotator_1": "approval, desire, optimism",
+      "Annotator_2": "caring, desire",
+      "Annotator_3": "approval, caring, nervousness, optimism",
+      "Annotator_4": "optimism",
+      "Annotator_5": "admiration, approval, caring, desire, nervousness, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Very positive",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "",
+      "Annotator_2": "Wind and solar energy",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": ""
+    },
+    "values": {
+      "Annotator_1": "Achievement, Universalism: nature, Universalism: objectivity",
+      "Annotator_2": "Achievement, Security: societal, Self-direction: action, Self-direction: thought, Universalism: nature, Universalism: objectivity, Universalism: tolerance",
+      "Annotator_3": "Achievement, Benevolence: caring, Benevolence: dependability, Face, Security: societal, Universalism: nature",
+      "Annotator_4": "Benevolence: caring, Universalism: nature",
+      "Annotator_5": "Benevolence: dependability, Security: societal, Universalism: nature, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "We have the space in the countryside to generate more than we consume. We owe our entire polder country to wind energy. The wind is nice here. Let's do more than our part here. They are opportunities. A new landscape is not necessarily a bad landscape. But let the profits descend locally. People have been given a little more to spend, e.g. for sustainable products, which are now slightly more expensive. Living and building land is far too expensive in Ned. Too much money is being knocked out of people's pockets for housing. Because of these high costs, the willingness to invest in sustainability is lower than in the surrounding countries.",
+    "argument": {
+      "Annotator_1": "(We have space in the countryside to generate more than we consume) AND (We owe our entire polder country to wind energy) AND (The wind is nice here) AND (Too much money is being knocked out of people's pockets for housing) AND (the high costs)",
+      "Annotator_2": "(We have the space in the countryside to generate more than we consume) AND (We owe our entire polder country to wind energy) AND (The wind is nice here) AND ( Let's do more than our part here. They are opportunities.)",
+      "Annotator_3": "(We have the space in the countryside to generate more than we consume) AND (We owe our entire polder country to wind energy) AND (The wind is nice here) AND (these high costs)",
+      "Annotator_4": "(We have the space in the countryside to generate more than we consume) AND (We owe our entire polder country to wind energy) AND (The wind is nice here) AND (They are opportunities) AND (A new landscape is not necessarily a bad landscape) AND (People have been given a little more to spend) AND (Living and building land is far too expensive in Ned) AND (Too much money is being knocked out of people's pockets for housing) AND (Because of these high costs)",
+      "Annotator_5": "(Because of these high costs, the willingness to invest in sustainability is lower than in surrounding countries)"
+    },
+    "emotion": {
+      "Annotator_1": "desire, disappointment, disapproval, optimism",
+      "Annotator_2": "annoyance, caring, disappointment, sadness",
+      "Annotator_3": "approval, caring, excitement, optimism, pride",
+      "Annotator_4": "caring, disapproval, optimism, pride",
+      "Annotator_5": "approval, caring, desire, disappointment, nervousness, optimism, pride"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Very positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Wind and solar energy",
+      "Annotator_2": "Wind and solar energy, Landscapes and windmills tourism",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands, Landscapes and windmills tourism",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Wind and solar energy, Landscapes and windmills tourism"
+    },
+    "values": {
+      "Annotator_1": "Achievement, Self-direction: thought, Universalism: nature",
+      "Annotator_2": "Benevolence: caring, Security: personal, Security: societal, Universalism: concern, Universalism: nature, Universalism: objectivity",
+      "Annotator_3": "Achievement, Benevolence: caring, Face, Self-direction: thought, Stimulation, Universalism: tolerance",
+      "Annotator_4": "Benevolence: dependability, Security: personal, Universalism: concern, Universalism: nature, Universalism: objectivity",
+      "Annotator_5": "Benevolence: caring, Face, Power: resources, Security: personal, Security: societal, Universalism: concern, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "Both residents and the municipalities cannot fulfil the task of the RES together, so a small part will be filled by market parties, but the region will decide/benefit from such projects.",
+    "argument": {
+      "Annotator_1": "(Both residents and the municipalities cannot fulfil the task of the RES together)",
+      "Annotator_2": "(Both residents and the municipalities cannot fulfil the task of the RES together)",
+      "Annotator_3": "(Both residents and the municipalities cannot fulfil the task of the RES together)",
+      "Annotator_4": "(Both residents and the municipalities cannot fulfil the task of the RES together)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "approval, optimism, realization",
+      "Annotator_2": "desire, realization, sadness",
+      "Annotator_3": "realization",
+      "Annotator_4": "neutral",
+      "Annotator_5": "approval, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_4": "Market Determination Dynamics",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Universalism: objectivity, Universalism: tolerance",
+      "Annotator_2": "Achievement, Benevolence: dependability, Power: dominance, Security: societal, Self-direction: action, Universalism: concern, Universalism: nature",
+      "Annotator_3": "Face, Power: resources, Universalism: objectivity",
+      "Annotator_4": "Security: societal, Self-direction: action, Universalism: objectivity",
+      "Annotator_5": "Universalism: nature, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "We do not want to become a wind turbine or solar park, or biomass digester for the whole of the Netherlands.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance, disapproval",
+      "Annotator_2": "anger, annoyance, disapproval, fear, nervousness",
+      "Annotator_3": "annoyance, disapproval",
+      "Annotator_4": "anger, disapproval, fear",
+      "Annotator_5": "annoyance, disapproval, disgust"
+    },
+    "sentiment": {
+      "Annotator_1": "Very negative",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Very negative",
+      "Annotator_5": "Very negative"
+    },
+    "topic": {
+      "Annotator_1": "Wind and solar energy",
+      "Annotator_2": "Energy storage and supplying energy in The Netherlands, Wind and solar energy",
+      "Annotator_3": "Wind and solar energy",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Wind and solar energy"
+    },
+    "values": {
+      "Annotator_1": "Self-direction: thought",
+      "Annotator_2": "Self-direction: action, Self-direction: thought",
+      "Annotator_3": "Self-direction: action",
+      "Annotator_4": "Self-direction: action, Universalism: nature",
+      "Annotator_5": ""
+    }
+  },
+  {
+    "sentence": "The (living) situation is different for everyone. However, anyone who is willing to contribute to it should be encouraged.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "approval, realization",
+      "Annotator_2": "caring, desire, gratitude",
+      "Annotator_3": "desire, optimism",
+      "Annotator_4": "caring, optimism",
+      "Annotator_5": "approval, caring, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Market Determination Dynamics",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector"
+    },
+    "values": {
+      "Annotator_1": "Security: societal, Self-direction: action",
+      "Annotator_2": "Benevolence: caring, Security: societal, Self-direction: action",
+      "Annotator_3": "Benevolence: caring, Face, Power: dominance",
+      "Annotator_4": "Achievement, Benevolence: dependability, Universalism: concern",
+      "Annotator_5": "Benevolence: dependability, Conformity: rules, Self-direction: action, Self-direction: thought, Stimulation, Universalism: concern, Universalism: tolerance"
+    }
+  },
+  {
+    "sentence": "I don't think you can leave this entirely to the inhabitants. But in my view, private initiatives should be possible.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "caring, disapproval",
+      "Annotator_2": "disapproval",
+      "Annotator_3": "desire, disapproval, realization",
+      "Annotator_4": "optimism, neutral",
+      "Annotator_5": "approval, nervousness"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat negative",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Very negative",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Market Determination Dynamics",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Security: societal, Universalism: objectivity",
+      "Annotator_2": "Security: societal",
+      "Annotator_3": "Benevolence: caring, Security: societal",
+      "Annotator_4": "Universalism: objectivity, Universalism: tolerance",
+      "Annotator_5": "Achievement, Benevolence: dependability, Conformity: rules, Power: dominance, Self-direction: action, Self-direction: thought, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "This statement makes it as if Friesland has to do it alone, while it is precisely nationally that sustainable use must be made. It is precisely cooperation with all provinces that is good because the statement can then become: \"Become an energy supplier to EU surrounding countries.\"",
+    "argument": {
+      "Annotator_1": "( it is precisely nationally that sustainable use must be made) AND (It is precisely cooperation with all provinces that is good)",
+      "Annotator_2": "(sustainable use must be made)",
+      "Annotator_3": "( it is precisely nationally that sustainable use must be made) AND (It is precisely cooperation with all provinces that is good)",
+      "Annotator_4": "(the statement can then become: \"Become an energy supplier to EU surrounding countries.\")",
+      "Annotator_5": "(the statement can then become: \"Become an energy supplier to EU surrounding countries.\")"
+    },
+    "emotion": {
+      "Annotator_1": "disapproval, optimism",
+      "Annotator_2": "anger, annoyance",
+      "Annotator_3": "annoyance, disapproval, optimism, pride",
+      "Annotator_4": "excitement, optimism",
+      "Annotator_5": "approval, neutral"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Neutral"
+    },
+    "topic": {
+      "Annotator_1": "Market Determination Dynamics",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Energy storage and supplying energy in The Netherlands",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Energy storage and supplying energy in The Netherlands",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Municipality and residents engagement in the energy sector"
+    },
+    "values": {
+      "Annotator_1": "Security: societal",
+      "Annotator_2": "Benevolence: dependability, Self-direction: action, Universalism: concern, Universalism: objectivity",
+      "Annotator_3": "Achievement, Benevolence: dependability, Face, Security: societal, Universalism: nature",
+      "Annotator_4": "Benevolence: dependability, Universalism: concern, Universalism: nature",
+      "Annotator_5": "Benevolence: dependability, Conformity: rules, Security: personal, Universalism: concern, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "In many cases, the market will determine what comes. However, this is a task for the municipal administration to keep control of whether plans and products are also sustainable and profitable for the municipality.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "( the market will determine what comes)",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "realization",
+      "Annotator_2": "caring, desire",
+      "Annotator_3": "approval, desire",
+      "Annotator_4": "neutral",
+      "Annotator_5": "approval"
+    },
+    "sentiment": {
+      "Annotator_1": "Very negative",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Very negative",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Neutral"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Benevolence: caring, Conformity: rules",
+      "Annotator_2": "Benevolence: dependability, Conformity: rules, Power: dominance, Security: societal, Universalism: nature, Universalism: objectivity",
+      "Annotator_3": "Universalism: concern",
+      "Annotator_4": "Achievement, Benevolence: dependability, Security: societal",
+      "Annotator_5": "Conformity: rules, Power: dominance, Security: societal, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "Residents can take care of solar panels, heat pumps, etc. POSSIBLY WITH THE HELP OF GOOD FINANCING PROGRAMS.",
+    "argument": {
+      "Annotator_1": "( WITH THE HELP OF GOOD FINANCING PROGRAMS)",
+      "Annotator_2": "(Residents can take care of solar panels, heat pumps, etc.)",
+      "Annotator_3": "(WITH THE HELP OF GOOD FINANCING PROGRAMS)",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance",
+      "Annotator_2": "approval, desire, realization",
+      "Annotator_3": "approval, optimism",
+      "Annotator_4": "optimism",
+      "Annotator_5": "annoyance, approval, desire, disapproval"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Wind and solar energy",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Wind and solar energy",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Wind and solar energy"
+    },
+    "values": {
+      "Annotator_1": "Achievement, Benevolence: caring",
+      "Annotator_2": "Achievement, Benevolence: caring, Benevolence: dependability, Power: dominance, Security: personal, Security: societal, Self-direction: action, Universalism: nature",
+      "Annotator_3": "Achievement, Face, Self-direction: action",
+      "Annotator_4": "Benevolence: caring, Self-direction: action, Universalism: nature",
+      "Annotator_5": "Benevolence: caring, Power: resources, Security: personal, Self-direction: action, Self-direction: thought"
+    }
+  },
+  {
+    "sentence": "Better the municipality than a higher government like the province or The Hague. Keep it close to the citizen.",
+    "argument": {
+      "Annotator_1": "(Keep it close to the citizen)",
+      "Annotator_2": "(Keep it close to the citizen.)",
+      "Annotator_3": "(Keep it close to the citizen)",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance, desire",
+      "Annotator_2": "desire",
+      "Annotator_3": "caring, pride",
+      "Annotator_4": "anger, annoyance, disapproval",
+      "Annotator_5": "approval, disapproval"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Somewhat negative",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector"
+    },
+    "values": {
+      "Annotator_1": "Security: societal",
+      "Annotator_2": "Security: personal, Security: societal",
+      "Annotator_3": "Power: dominance",
+      "Annotator_4": "Benevolence: caring, Benevolence: dependability, Self-direction: action",
+      "Annotator_5": "Power: dominance"
+    }
+  },
+  {
+    "sentence": "I don't see anything in this. The landscape is helped to the sodemieter while Súdwest-Fryslân is a tourist-oriented municipality. This is therefore, in my view, a stupid and self-defeating idea.",
+    "argument": {
+      "Annotator_1": "(The landscape is helped to the sodemieter) AND (Súdwest-Fryslân is a tourist-oriented municipality)",
+      "Annotator_2": "None",
+      "Annotator_3": "( in my view, a stupid and self-defeating idea.)",
+      "Annotator_4": "(The landscape is helped to the sodemieter while Súdwest-Fryslân is a tourist-oriented municipality)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance, disapproval",
+      "Annotator_2": "anger, annoyance, disapproval, disgust",
+      "Annotator_3": "anger, annoyance, disapproval",
+      "Annotator_4": "anger, annoyance, disapproval, disgust",
+      "Annotator_5": "annoyance, disappointment, disapproval, disgust"
+    },
+    "sentiment": {
+      "Annotator_1": "Very negative",
+      "Annotator_2": "Very negative",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Very negative",
+      "Annotator_5": "Very negative"
+    },
+    "topic": {
+      "Annotator_1": "Landscapes and windmills tourism",
+      "Annotator_2": "Landscapes and windmills tourism",
+      "Annotator_3": "Landscapes and windmills tourism",
+      "Annotator_4": "Landscapes and windmills tourism",
+      "Annotator_5": "Landscapes and windmills tourism"
+    },
+    "values": {
+      "Annotator_1": "Universalism: objectivity",
+      "Annotator_2": "Tradition, Universalism: objectivity",
+      "Annotator_3": "Self-direction: thought, Universalism: nature",
+      "Annotator_4": "Universalism: nature, Universalism: objectivity",
+      "Annotator_5": "Universalism: nature"
+    }
+  },
+  {
+    "sentence": "This would be a very good option because the inhabitants can then make their own choices. However, it can also become a mess. So there is a need for direction and frameworks from the province. The costs also influence the choices and most residents have little insight into this.",
+    "argument": {
+      "Annotator_1": "(the inhabitants can then make their own choices) AND (there is a need for direction and frameworks from the province)",
+      "Annotator_2": "None",
+      "Annotator_3": "None",
+      "Annotator_4": "(the inhabitants can then make their own choices) AND (it can also become a mess)",
+      "Annotator_5": "(the inhabitants can then make their own choices)"
+    },
+    "emotion": {
+      "Annotator_1": "approval, disapproval",
+      "Annotator_2": "approval, desire, fear",
+      "Annotator_3": "admiration, approval, curiosity, nervousness",
+      "Annotator_4": "neutral",
+      "Annotator_5": "approval, caring, desire, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat negative",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector"
+    },
+    "values": {
+      "Annotator_1": "Security: societal, Self-direction: action, Universalism: objectivity",
+      "Annotator_2": "Benevolence: caring, Self-direction: action, Universalism: objectivity",
+      "Annotator_3": "Self-direction: action, Self-direction: thought",
+      "Annotator_4": "Security: societal, Self-direction: action, Universalism: objectivity",
+      "Annotator_5": "Achievement, Benevolence: dependability, Power: dominance, Power: resources, Security: personal, Security: societal, Self-direction: action, Self-direction: thought"
+    }
+  },
+  {
+    "sentence": "Is an important element because it allows self-use to be further stimulated. In my opinion, essential. Furthermore, biomass and pallet stoves should be removed from the package as soon as possible. Then rather nuclear energy as a transition!",
+    "argument": {
+      "Annotator_1": "( it allows self-use to be further stimulated) ",
+      "Annotator_2": "(Is an important element because it allows self-use to be further stimulated)",
+      "Annotator_3": "(it allows self-use to be further stimulated)",
+      "Annotator_4": "(it allows self-use to be further stimulated)",
+      "Annotator_5": "(it allows self-use to be further stimulated)"
+    },
+    "emotion": {
+      "Annotator_1": "approval, realization",
+      "Annotator_2": "approval, desire",
+      "Annotator_3": "approval, desire, excitement",
+      "Annotator_4": "optimism",
+      "Annotator_5": "admiration, approval, caring, desire, excitement, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Very positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Very positive"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": ""
+    },
+    "values": {
+      "Annotator_1": "Face",
+      "Annotator_2": "Universalism: nature",
+      "Annotator_3": "Power: dominance, Self-direction: action, Self-direction: thought",
+      "Annotator_4": "Self-direction: action, Universalism: nature",
+      "Annotator_5": "Self-direction: action, Self-direction: thought, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "Given the impact of the measures, right behind the front door, it seems better to put the control in the hands of municipalities and residents. The market can go out.",
+    "argument": {
+      "Annotator_1": "(Given the impact of the measures)",
+      "Annotator_2": "(put the control in the hands of municipalities and residents. )",
+      "Annotator_3": "(the impact of the measures, right behind the front door)",
+      "Annotator_4": "(Given the impact of the measures)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "approval, optimism",
+      "Annotator_2": "desire",
+      "Annotator_3": "approval, caring, realization",
+      "Annotator_4": "nervousness, pride",
+      "Annotator_5": "approval, fear, nervousness"
+    },
+    "sentiment": {
+      "Annotator_1": "Very negative",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Very negative",
+      "Annotator_4": "Somewhat negative",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Achievement, Self-direction: action",
+      "Annotator_2": "Security: societal, Self-direction: action, Universalism: objectivity",
+      "Annotator_3": "Self-direction: action",
+      "Annotator_4": "Power: dominance, Self-direction: action",
+      "Annotator_5": "Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "The best way to guarantee that everyone is supplied with electricity green and reliably is to control everything centrally.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "optimism",
+      "Annotator_2": "annoyance, disapproval",
+      "Annotator_3": "realization",
+      "Annotator_4": "caring, realization",
+      "Annotator_5": "neutral"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Energy storage and supplying energy in The Netherlands, Market Determination Dynamics",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Power: dominance, Security: societal",
+      "Annotator_2": "Security: societal, Universalism: concern, Universalism: nature",
+      "Annotator_3": "Security: societal, Universalism: nature, Universalism: objectivity",
+      "Annotator_4": "Security: societal, Universalism: concern",
+      "Annotator_5": "Benevolence: caring, Security: personal, Security: societal"
+    }
+  },
+  {
+    "sentence": "Not a good plan! Generating far too much energy in our municipality to provide parts of the country with energy.  See point 5!",
+    "argument": {
+      "Annotator_1": "(Generating far too much energy in our municipality )",
+      "Annotator_2": "(Generating far too much energy in our municipality)",
+      "Annotator_3": "(Generating far too much energy in our municipality to provide parts of the country with energy)",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "anger, disapproval",
+      "Annotator_2": "desire",
+      "Annotator_3": "disapproval",
+      "Annotator_4": "anger, disapproval",
+      "Annotator_5": "anger, annoyance, disappointment, disapproval"
+    },
+    "sentiment": {
+      "Annotator_1": "Very negative",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Very negative",
+      "Annotator_5": "Very negative"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Energy storage and supplying energy in The Netherlands",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Wind and solar energy"
+    },
+    "values": {
+      "Annotator_1": "Universalism: objectivity",
+      "Annotator_2": "Security: societal, Self-direction: action, Universalism: concern",
+      "Annotator_3": "Power: dominance, Self-direction: thought",
+      "Annotator_4": "Benevolence: caring, Self-direction: action",
+      "Annotator_5": ""
+    }
+  },
+  {
+    "sentence": "Can keep the balance between peaple - planet - profit. Although it will soon be in their favor. That is why good agreements must be made with the municipality.",
+    "argument": {
+      "Annotator_1": "(Can keep the balance between peaple - planet - profit)",
+      "Annotator_2": "(good agreements must be made with the municipality)",
+      "Annotator_3": "(good agreements must be made with the municipality)",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "approval, gratitude, optimism",
+      "Annotator_2": "approval, desire",
+      "Annotator_3": "approval, realization",
+      "Annotator_4": "nervousness, optimism, realization",
+      "Annotator_5": "approval, caring, curiosity, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Very negative",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Very negative",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Somewhat negative"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Face, Universalism: objectivity, Universalism: tolerance",
+      "Annotator_2": "Achievement, Benevolence: dependability, Power: dominance, Security: societal, Self-direction: action, Universalism: nature",
+      "Annotator_3": "Conformity: rules, Universalism: nature",
+      "Annotator_4": "Universalism: nature, Universalism: objectivity",
+      "Annotator_5": "Achievement, Benevolence: dependability, Conformity: rules, Power: dominance, Security: societal, Universalism: concern, Universalism: nature, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "Competition from each other is never bad as long as one can suffer from each other. There are too many options, the consumer must be able to choose.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(There are too many options)",
+      "Annotator_3": "(one can suffer from each other)",
+      "Annotator_4": "None",
+      "Annotator_5": "(There are too many options)"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance, fear",
+      "Annotator_2": "annoyance",
+      "Annotator_3": "",
+      "Annotator_4": "neutral",
+      "Annotator_5": "neutral"
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat negative",
+      "Annotator_5": "Somewhat negative"
+    },
+    "topic": {
+      "Annotator_1": "Market Determination Dynamics",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Market Determination Dynamics",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Self-direction: action",
+      "Annotator_2": "Self-direction: action",
+      "Annotator_3": "Self-direction: action",
+      "Annotator_4": "Self-direction: action, Self-direction: thought",
+      "Annotator_5": "Achievement, Conformity: rules, Power: dominance, Security: societal, Self-direction: action, Self-direction: thought, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "People want to be involved in these kinds of decisions.  We want to choose how we make it more sustainable.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(People want to be involved in these kinds of decisions)",
+      "Annotator_3": "(We want to choose how we make it more sustainable.)",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "caring, curiosity",
+      "Annotator_2": "caring, curiosity, desire, excitement",
+      "Annotator_3": "",
+      "Annotator_4": "desire, pride",
+      "Annotator_5": "desire"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector"
+    },
+    "values": {
+      "Annotator_1": "Power: dominance, Self-direction: action, Self-direction: thought",
+      "Annotator_2": "Self-direction: action",
+      "Annotator_3": "Benevolence: caring, Power: dominance",
+      "Annotator_4": "Self-direction: action, Self-direction: thought",
+      "Annotator_5": "Achievement, Benevolence: dependability, Power: dominance, Security: societal, Self-direction: action, Self-direction: thought, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "The municipality must support energy generation by local energy cooperatives. The municipality should not put on too big pants when it comes to large-scale energy storage. At most, only for your own municipality. The idea of becoming the energy supplier of the Netherlands is also megalomaniacal. That's never going to work in SWF. The market only wants to extract as much money as possible from people.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(becoming the energy supplier of the Netherlands)",
+      "Annotator_3": "None",
+      "Annotator_4": "(That's never going to work in SWF) AND (The market only wants to extract as much money as possible from people)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance, disapproval",
+      "Annotator_2": "anger, annoyance, disapproval",
+      "Annotator_3": "",
+      "Annotator_4": "annoyance, disapproval, embarrassment",
+      "Annotator_5": "disappointment, disapproval, disgust"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat negative",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Very negative",
+      "Annotator_5": "Very negative"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Energy storage and supplying energy in The Netherlands, Wind and solar energy",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Energy storage and supplying energy in The Netherlands, Market Determination Dynamics",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Universalism: objectivity",
+      "Annotator_2": "Security: societal, Universalism: nature",
+      "Annotator_3": "Conformity: rules, Self-direction: action",
+      "Annotator_4": "Benevolence: dependability, Humility, Universalism: objectivity",
+      "Annotator_5": "Benevolence: caring, Benevolence: dependability, Conformity: rules, Security: societal, Self-direction: action, Self-direction: thought, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "Not a good idea. Soon tens of thousands of people will all invent the same gunpowder.  ineffective.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(Not a good idea) AND (people will all invent the same gunpowder)",
+      "Annotator_3": "(ineffective)",
+      "Annotator_4": "(Soon tens of thousands of people will all invent the same gunpowder)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance, disapproval",
+      "Annotator_2": "disapproval",
+      "Annotator_3": "",
+      "Annotator_4": "annoyance, disapproval",
+      "Annotator_5": "disapproval"
+    },
+    "sentiment": {
+      "Annotator_1": "Very negative",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Very negative",
+      "Annotator_4": "Very negative",
+      "Annotator_5": "Very negative"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": ""
+    },
+    "values": {
+      "Annotator_1": "Security: societal",
+      "Annotator_2": "Self-direction: action",
+      "Annotator_3": "Self-direction: thought",
+      "Annotator_4": "Universalism: objectivity",
+      "Annotator_5": "Achievement, Benevolence: caring, Benevolence: dependability, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "private individuals who can afford it and do things approved by the municipality in the context of sustainability, which also fits within the framework of design (i.e. well controlled by the municipality) is a good thing and can contribute to the joint solution",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "approval",
+      "Annotator_2": "approval, desire",
+      "Annotator_3": "",
+      "Annotator_4": "approval, optimism",
+      "Annotator_5": "admiration, approval"
+    },
+    "sentiment": {
+      "Annotator_1": "Very positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Very positive",
+      "Annotator_4": "Very positive",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Benevolence: caring, Universalism: nature",
+      "Annotator_2": "",
+      "Annotator_3": "Benevolence: caring, Universalism: nature",
+      "Annotator_4": "Universalism: nature, Universalism: objectivity, Universalism: tolerance",
+      "Annotator_5": "Achievement, Benevolence: dependability, Conformity: rules, Power: resources, Security: personal, Security: societal, Self-direction: action, Self-direction: thought, Universalism: concern, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "Especially financially, this seems to me to be the best choice, and also that in a certain (city) district an equality of the houses there arises and no jumble of possible possibilities.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "( financially, this seems to me to be the best choice)",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "approval, optimism",
+      "Annotator_2": "approval",
+      "Annotator_3": "",
+      "Annotator_4": "neutral",
+      "Annotator_5": "approval"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Very positive"
+    },
+    "topic": {
+      "Annotator_1": "Wind and solar energy",
+      "Annotator_2": "",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Self-direction: thought",
+      "Annotator_2": "Security: personal, Security: societal",
+      "Annotator_3": "Security: personal, Universalism: concern, Universalism: nature",
+      "Annotator_4": "Power: resources, Universalism: concern",
+      "Annotator_5": "Power: resources, Security: personal, Security: societal, Universalism: concern"
+    }
+  },
+  {
+    "sentence": "Control is needed to prevent energy from being generated everywhere and with initiatives that are too small. Moreover, it is good if the government has a finger in the pie and (large) companies do not determine what happens. You certainly need the companies, but the government can keep a grip on this with steering measures (including subsidies, location policy, etc.).",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(prevent energy from being generated everywhere) AND (companies do not determine what happens)",
+      "Annotator_3": "None",
+      "Annotator_4": "(the government can keep a grip on this with steering measures (including subsidies, location policy, etc.))",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "realization",
+      "Annotator_2": "desire, gratitude, optimism, relief",
+      "Annotator_3": "",
+      "Annotator_4": "neutral",
+      "Annotator_5": "approval, caring, gratitude, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Energy storage and supplying energy in The Netherlands, Market Determination Dynamics",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Market Determination Dynamics",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Conformity: rules, Security: societal, Universalism: objectivity",
+      "Annotator_2": "Security: societal",
+      "Annotator_3": "Security: societal",
+      "Annotator_4": "Power: dominance, Self-direction: action",
+      "Annotator_5": "Benevolence: dependability, Conformity: rules, Power: dominance, Security: societal, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "direction from the public party (steering on the fair distribution of benefits and burdens) and ensuring the quality of the landscape",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(ensuring the quality of the landscape)",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "caring",
+      "Annotator_2": "",
+      "Annotator_3": "",
+      "Annotator_4": "approval, caring",
+      "Annotator_5": "neutral"
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Neutral"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Landscapes and windmills tourism",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Landscapes and windmills tourism",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Landscapes and windmills tourism"
+    },
+    "values": {
+      "Annotator_1": "Universalism: concern, Universalism: nature",
+      "Annotator_2": "Universalism: nature",
+      "Annotator_3": "Security: societal, Universalism: nature",
+      "Annotator_4": "Power: dominance, Universalism: concern, Universalism: nature",
+      "Annotator_5": "Benevolence: dependability, Conformity: rules, Power: dominance, Security: societal, Self-direction: action, Self-direction: thought, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "I think this is a very good idea because it yields a lot for the municipality and for the Netherlands. Because the municipality can earn a lot from it and so can the Netherlands.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(yields a lot for the municipality and for the Netherlands) AND (municipality can earn a lot from it and so can the Netherlands)",
+      "Annotator_3": "(it yields a lot for the municipality and for the Netherlands) AND (the municipality can earn a lot from it and so can the Netherlands)",
+      "Annotator_4": "(it yields a lot for the municipality and for the Netherlands) AND (the municipality can earn a lot from it and so can the Netherlands)",
+      "Annotator_5": "(it yields a lot for the municipality and for the Netherlands) AND (the municipality can earn a lot from it and so can the Netherlands)"
+    },
+    "emotion": {
+      "Annotator_1": "approval, joy",
+      "Annotator_2": "approval",
+      "Annotator_3": "",
+      "Annotator_4": "approval, optimism, pride",
+      "Annotator_5": "admiration, approval, desire, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Very positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Very positive",
+      "Annotator_4": "Very positive",
+      "Annotator_5": "Very positive"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": ""
+    },
+    "values": {
+      "Annotator_1": "Achievement, Self-direction: thought",
+      "Annotator_2": "Power: resources, Security: personal, Security: societal",
+      "Annotator_3": "Power: resources",
+      "Annotator_4": "Power: resources",
+      "Annotator_5": "Achievement, Face, Power: dominance, Power: resources, Security: personal"
+    }
+  },
+  {
+    "sentence": "Not everyone who wants to can invest in solar panels.  Windmills are not an issue, we have enough of them in the municipality and we no longer want windmills that pollute the horizon.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(invest in solar panels) AND (Windmills are not an issue)",
+      "Annotator_3": "(we have enough of them in the municipality) AND (we no longer want windmills that pollute the horizon)",
+      "Annotator_4": "(we have enough of them in the municipality) AND (we no longer want windmills that pollute the horizon)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance, realization",
+      "Annotator_2": "annoyance, desire, disapproval",
+      "Annotator_3": "",
+      "Annotator_4": "anger, annoyance, disapproval",
+      "Annotator_5": "disapproval"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat negative",
+      "Annotator_2": "Very negative",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Very negative",
+      "Annotator_5": "Somewhat negative"
+    },
+    "topic": {
+      "Annotator_1": "Wind and solar energy",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Wind and solar energy",
+      "Annotator_3": "Wind and solar energy, Landscapes and windmills tourism",
+      "Annotator_4": "Landscapes and windmills tourism",
+      "Annotator_5": "Wind and solar energy, Landscapes and windmills tourism"
+    },
+    "values": {
+      "Annotator_1": "Security: societal",
+      "Annotator_2": "Security: personal, Security: societal, Universalism: nature",
+      "Annotator_3": "Security: personal, Universalism: nature",
+      "Annotator_4": "Universalism: nature, Universalism: objectivity",
+      "Annotator_5": "Achievement, Power: resources, Security: personal, Self-direction: action, Self-direction: thought, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "Creating something beautiful in a shared community, where everyone contributes to everyone's ability. And it gives a drive because there will also be recouped.  My preference is mainly for windmills, and solar panels on existing buildings and certainly not for panels on (agricultural) land.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(Creating something beautiful in a shared community)",
+      "Annotator_3": "(there will also be recouped)",
+      "Annotator_4": "(there will also be recouped)",
+      "Annotator_5": "(there will also be recouped)"
+    },
+    "emotion": {
+      "Annotator_1": "joy",
+      "Annotator_2": "approval, caring",
+      "Annotator_3": "",
+      "Annotator_4": "caring, desire, excitement, joy",
+      "Annotator_5": "admiration, approval, desire, excitement, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Very positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Very positive"
+    },
+    "topic": {
+      "Annotator_1": "Wind and solar energy",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Wind and solar energy",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Wind and solar energy",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Wind and solar energy"
+    },
+    "values": {
+      "Annotator_1": "Achievement, Stimulation, Universalism: nature",
+      "Annotator_2": "Conformity: rules, Face, Security: personal, Security: societal, Universalism: nature",
+      "Annotator_3": "Face, Power: resources, Universalism: nature",
+      "Annotator_4": "Security: personal, Security: societal, Universalism: nature",
+      "Annotator_5": "Face, Security: personal, Security: societal, Self-direction: action, Self-direction: thought, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "If the citizens of the municipality see a leading role in this, a pioneering role to enable sustainable energy generation, then this is certainly a consideration. But here too, the citizens themselves should really be 100% behind it. There is a danger with this option that the main focus of this is on the revenue model, while, in my opinion, it is really mainly about involving citizens in the generation of sustainable energy and consciously working on this.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "(If the citizens of the municipality see a leading role in this, a pioneering role to enable sustainable energy generation)",
+      "Annotator_4": "(the citizens themselves should really be 100% behind it)",
+      "Annotator_5": "(it is really mainly about involving citizens in the generation of sustainable energy and conciously working on this)"
+    },
+    "emotion": {
+      "Annotator_1": "realization",
+      "Annotator_2": "approval, fear",
+      "Annotator_3": "",
+      "Annotator_4": "caring, nervousness, optimism",
+      "Annotator_5": "approval, curiosity"
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Neutral"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Self-direction: action, Self-direction: thought",
+      "Annotator_2": "Self-direction: action, Universalism: nature",
+      "Annotator_3": "Benevolence: dependability, Power: resources, Security: societal",
+      "Annotator_4": "Achievement, Security: personal, Self-direction: action, Universalism: nature",
+      "Annotator_5": "Achievement, Benevolence: dependability, Conformity: rules, Security: personal, Self-direction: action, Self-direction: thought"
+    }
+  },
+  {
+    "sentence": "Is think this is easiest solution and probably the cheapest? However, this often causes a disruption of the landscape / environment (large fields with solar panels, for example)",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "(this often causes a disruption of the landscape/environment)"
+    },
+    "emotion": {
+      "Annotator_1": "approval, disapproval",
+      "Annotator_2": "disapproval, fear, nervousness",
+      "Annotator_3": "",
+      "Annotator_4": "annoyance, curiosity, disapproval",
+      "Annotator_5": "approval, curiosity, nervousness"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Somewhat negative",
+      "Annotator_5": "Somewhat negative"
+    },
+    "topic": {
+      "Annotator_1": "Wind and solar energy",
+      "Annotator_2": "Wind and solar energy, Landscapes and windmills tourism",
+      "Annotator_3": "Wind and solar energy, Landscapes and windmills tourism",
+      "Annotator_4": "Landscapes and windmills tourism",
+      "Annotator_5": "Wind and solar energy, Landscapes and windmills tourism"
+    },
+    "values": {
+      "Annotator_1": "Universalism: objectivity",
+      "Annotator_2": "Security: societal, Universalism: nature",
+      "Annotator_3": "Security: personal, Universalism: nature",
+      "Annotator_4": "Universalism: nature",
+      "Annotator_5": "Power: resources, Security: personal, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "If we are going to get rid of gas, it is important that energy is always available. Prefer to store a lot and deliver little. This allows us to become independent of the major energy suppliers.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "(Prefer to store a lot and deliver little)",
+      "Annotator_4": "(This allows us to become independent of the major energy suppliers)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "desire",
+      "Annotator_2": "curiosity, desire, excitement",
+      "Annotator_3": "",
+      "Annotator_4": "neutral",
+      "Annotator_5": "caring, nervousness"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Very negative"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Energy storage in The Netherlands, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "Self-direction: action, Universalism: objectivity",
+      "Annotator_2": "Self-direction: action",
+      "Annotator_3": "Security: societal, Self-direction: action",
+      "Annotator_4": "Security: societal, Self-direction: action",
+      "Annotator_5": "Achievement, Benevolence: dependability, Security: societal, Self-direction: action, Self-direction: thought, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "An energy cooperative such as the one in IJlst is a good example. No impact on the landscape. Small-scale and close to a business park. Excellent. Even better, of course, is that the roofs are first fully used. If this is not possible, search for double destinations and overhangs (good example, solar park Hemriksein in exit loop N31). Can't fit this against village or city centers (as for example in IJlst). The village mill is also possible, then this should be an existing mill that is scaled up (same mill, only more modern and therefore more MW). No new mills.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(No impact on the landscape) AND (roofs are first fully used)",
+      "Annotator_3": "(The village mill is also possible) AND (same mill, only more modern)",
+      "Annotator_4": "(No impact on the landscape) AND (Small-scale and close to a business park) AND (the roofs are first fully used)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "admiration, approval",
+      "Annotator_2": "approval, desire, realization",
+      "Annotator_3": "",
+      "Annotator_4": "neutral",
+      "Annotator_5": "admiration, approval, desire, excitement, optimism, pride"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Wind and solar energy",
+      "Annotator_2": "Wind and solar energy",
+      "Annotator_3": "Wind and solar energy, Landscapes and windmills tourism",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Wind and solar energy, Landscapes and windmills tourism"
+    },
+    "values": {
+      "Annotator_1": "Universalism: nature",
+      "Annotator_2": "Universalism: nature, Universalism: tolerance",
+      "Annotator_3": "Achievement, Universalism: nature",
+      "Annotator_4": "Universalism: nature, Universalism: objectivity",
+      "Annotator_5": "Universalism: nature"
+    }
+  },
+  {
+    "sentence": "In this way, nature is affected in as few places as possible and you have the energy generators all together.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "approval",
+      "Annotator_2": "caring, optimism",
+      "Annotator_3": "",
+      "Annotator_4": "neutral",
+      "Annotator_5": "neutral"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Energy storage and supplying energy in The Netherlands, Landscapes and windmills tourism",
+      "Annotator_3": "Landscapes and windmills tourism",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Landscapes and windmills tourism"
+    },
+    "values": {
+      "Annotator_1": "Universalism: nature, Universalism: objectivity",
+      "Annotator_2": "Universalism: nature",
+      "Annotator_3": "Universalism: nature",
+      "Annotator_4": "Universalism: nature",
+      "Annotator_5": "Universalism: nature"
+    }
+  },
+  {
+    "sentence": "Some storage is good, but not for all or half of the Netherlands Then we will soon get landscape pollution",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(get landscape pollution)",
+      "Annotator_3": "(Some storage is good) AND (not for all or half of the Netherlands)",
+      "Annotator_4": "(Then we will soon get landscape pollution)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "disapproval",
+      "Annotator_2": "desire, disapproval, fear",
+      "Annotator_3": "",
+      "Annotator_4": "annoyance, disapproval, fear",
+      "Annotator_5": "approval, disapproval, nervousness, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Very negative",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Very negative",
+      "Annotator_5": "Somewhat negative"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Energy storage and supplying energy in The Netherlands, Landscapes and windmills tourism",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands, Landscapes and windmills tourism",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Energy storage in The Netherlands, Landscapes and windmills tourism"
+    },
+    "values": {
+      "Annotator_1": "Universalism: objectivity",
+      "Annotator_2": "Universalism: nature",
+      "Annotator_3": "Universalism: nature",
+      "Annotator_4": "Self-direction: action, Universalism: nature",
+      "Annotator_5": "Universalism: nature"
+    }
+  },
+  {
+    "sentence": "Here too, a positive effect on the labour market in the region. The impact on quality of life and tourism is an important precondition for this.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "admiration, approval",
+      "Annotator_2": "optimism",
+      "Annotator_3": "",
+      "Annotator_4": "neutral",
+      "Annotator_5": "approval, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Landscapes and windmills tourism",
+      "Annotator_2": "Landscapes and windmills tourism",
+      "Annotator_3": "Landscapes and windmills tourism",
+      "Annotator_4": "Landscapes and windmills tourism",
+      "Annotator_5": "Landscapes and windmills tourism"
+    },
+    "values": {
+      "Annotator_1": "Security: societal",
+      "Annotator_2": "Universalism: nature",
+      "Annotator_3": "Power: resources, Security: personal",
+      "Annotator_4": "Power: resources, Security: societal",
+      "Annotator_5": "Achievement, Power: resources, Security: personal, Security: societal"
+    }
+  },
+  {
+    "sentence": "This is the best solution for the protection of the landscape. Generating sustainable energy in places (small or large) can cause great annoyance. People will always disagree. In those cases, it may be better for the government to make the decision.   It should not be the case that the 2 large cores in SWF are now also saddled with large-scale energy generation. There are plenty of (remote) places in the municipality where this could also be done without affecting the landscape too much.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(sustainable energy in places (small or large) can cause great annoyance)",
+      "Annotator_3": "None",
+      "Annotator_4": "(There are plenty of (remote) places in the municipality where this could also be done without affecting the landscape too much)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "approval",
+      "Annotator_2": "annoyance, disapproval",
+      "Annotator_3": "",
+      "Annotator_4": "annoyance, disapproval",
+      "Annotator_5": "approval, caring, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat negative",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Neutral"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Energy storage and supplying energy in The Netherlands, Wind and solar energy, Landscapes and windmills tourism",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands, Landscapes and windmills tourism",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Landscapes and windmills tourism"
+    },
+    "values": {
+      "Annotator_1": "Security: societal, Universalism: nature",
+      "Annotator_2": "Universalism: nature",
+      "Annotator_3": "Conformity: rules, Security: societal, Universalism: nature",
+      "Annotator_4": "Security: societal, Universalism: nature, Universalism: objectivity",
+      "Annotator_5": "Benevolence: dependability, Conformity: rules, Power: dominance, Security: societal, Universalism: nature, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "The generation and consumption is never simultaneous as you can store create your independence Also I see employment here Now I want solar panels but hear in our street that the solar inverter regularly switches off 250v.  This is now an obstacle to purchasing panels, so network / infrastructure will have to be made suitable",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(generation and consumption is never simultaneous)",
+      "Annotator_3": "None",
+      "Annotator_4": "(hear in our street that the solar inverter regularly switches off 250v) AND (This is now an obstacle to purchasing panels)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance, disapproval",
+      "Annotator_2": "confusion",
+      "Annotator_3": "",
+      "Annotator_4": "curiosity, desire, disappointment",
+      "Annotator_5": "approval, nervousness"
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Somewhat negative",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Wind and solar energy",
+      "Annotator_2": "Wind and solar energy",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands, Wind and solar energy",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Energy storage in The Netherlands, Wind and solar energy"
+    },
+    "values": {
+      "Annotator_1": "Self-direction: action, Universalism: objectivity",
+      "Annotator_2": "Self-direction: action",
+      "Annotator_3": "Self-direction: action",
+      "Annotator_4": "Power: resources, Security: personal, Self-direction: action",
+      "Annotator_5": "Power: resources, Security: personal, Self-direction: action, Self-direction: thought"
+    }
+  },
+  {
+    "sentence": "As a 3rd choice. The market economy must also be given the opportunity. It is precisely a combination of different initiatives that seems to me to be desirable. The market should not prevail, then big money/power wins. Sustainable (people, profit and planet). The economy/market, preferably local, must remain a possibility, with a chance of innovation/development.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(Sustainable (people, profit and planet))",
+      "Annotator_3": "(The market should not prevail)",
+      "Annotator_4": "(The market should not prevail, then big money/power wins)",
+      "Annotator_5": "(It is precisely a combination of different initiatives that seems to me to be desirable)"
+    },
+    "emotion": {
+      "Annotator_1": "",
+      "Annotator_2": "curiosity, desire",
+      "Annotator_3": "",
+      "Annotator_4": "neutral",
+      "Annotator_5": "approval, caring, desire, nervousness, optimism"
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Somewhat positive",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Market Determination Dynamics",
+      "Annotator_2": "Market Determination Dynamics",
+      "Annotator_3": "Market Determination Dynamics",
+      "Annotator_4": "Market Determination Dynamics",
+      "Annotator_5": "Municipality and residents engagement in the energy sector, Market Determination Dynamics"
+    },
+    "values": {
+      "Annotator_1": "",
+      "Annotator_2": "Security: societal",
+      "Annotator_3": "Power: dominance, Universalism: concern, Universalism: nature",
+      "Annotator_4": "Achievement, Power: resources, Security: societal",
+      "Annotator_5": "Benevolence: caring, Benevolence: dependability, Security: personal, Security: societal, Universalism: concern, Universalism: nature"
+    }
+  },
+  {
+    "sentence": "In this way, all residents pay a lot, while a large part of the municipality itself has just invested a lot in insulation and solar panels. The municipality already has a large deficit, so I do not think it is wise to invest in such projects yourself. Sit down with the business community. For the less fortunate it is a godsend, which is why I have given a few points. Perhaps subsidies could be given on the basis of income?",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(municipality already has a large deficit)",
+      "Annotator_3": "(The municipality already has a large deficit)",
+      "Annotator_4": "(The municipality already has a large deficit)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "realization",
+      "Annotator_2": "caring, disapproval",
+      "Annotator_3": "",
+      "Annotator_4": "caring, confusion, disapproval",
+      "Annotator_5": "approval, caring, curiosity, desire, nervousness"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat positive",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Somewhat negative",
+      "Annotator_5": "Very negative"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Wind and solar energy, Market Determination Dynamics",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector"
+    },
+    "values": {
+      "Annotator_1": "Universalism: objectivity",
+      "Annotator_2": "Benevolence: caring, Security: societal, Universalism: tolerance",
+      "Annotator_3": "Power: dominance, Security: personal, Universalism: concern",
+      "Annotator_4": "Benevolence: caring, Security: personal, Universalism: concern",
+      "Annotator_5": "Benevolence: dependability, Power: resources, Security: personal, Security: societal, Universalism: concern"
+    }
+  },
+  {
+    "sentence": "The municipality determines the rules and has the subsidies to make citizens aware and motivate. But will also have to follow the provincial/national guidelines.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "( municipality determines the rules)",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "realization",
+      "Annotator_2": "",
+      "Annotator_3": "",
+      "Annotator_4": "neutral",
+      "Annotator_5": "approval"
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Neutral"
+    },
+    "topic": {
+      "Annotator_1": "Municipality and residents engagement in the energy sector",
+      "Annotator_2": "Municipality and residents engagement in the energy sector",
+      "Annotator_3": "Municipality and residents engagement in the energy sector",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Municipality and residents engagement in the energy sector"
+    },
+    "values": {
+      "Annotator_1": "Conformity: rules",
+      "Annotator_2": "",
+      "Annotator_3": "Conformity: rules, Power: resources, Security: societal",
+      "Annotator_4": "Benevolence: dependability, Conformity: rules",
+      "Annotator_5": "Achievement, Benevolence: caring, Benevolence: dependability, Conformity: rules, Power: dominance, Security: societal, Universalism: objectivity"
+    }
+  },
+  {
+    "sentence": "I don't think there is this possibility yet, these battery packs have to be housed somewhere (building local).  This is 1 of the better solution for the future or that in every home that is equipped with panels and backup to have but you also have to look at recycling the batteries over years.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "( battery packs have to be housed somewhere)",
+      "Annotator_3": "(these battery packs have to be housed somewhere (building local))",
+      "Annotator_4": "(these battery packs have to be housed somewhere)",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "admiration, disapproval",
+      "Annotator_2": "disapproval",
+      "Annotator_3": "",
+      "Annotator_4": "neutral",
+      "Annotator_5": "approval, curiosity, nervousness"
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Somewhat positive"
+    },
+    "topic": {
+      "Annotator_1": "Wind and solar energy",
+      "Annotator_2": "Wind and solar energy",
+      "Annotator_3": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_4": "Energy storage and supplying energy in The Netherlands",
+      "Annotator_5": "Energy storage in The Netherlands"
+    },
+    "values": {
+      "Annotator_1": "Universalism: nature",
+      "Annotator_2": "Conformity: rules, Universalism: nature",
+      "Annotator_3": "Achievement, Universalism: objectivity",
+      "Annotator_4": "Universalism: objectivity",
+      "Annotator_5": "Universalism: nature"
+    }
+  },
+  {
+    "sentence": "Storage is a big issue and will continue to grow. It would be fantastic if our municipality could take the lead in this.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "(Storage is a big issue) AND (continue to grow)",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "annoyance",
+      "Annotator_2": "curiosity, desire, optimism",
+      "Annotator_3": "",
+      "Annotator_4": "excitement, optimism",
+      "Annotator_5": "approval, desire, optimism, pride"
+    },
+    "sentiment": {
+      "Annotator_1": "Somewhat negative",
+      "Annotator_2": "Somewhat negative",
+      "Annotator_3": "Somewhat positive",
+      "Annotator_4": "Somewhat positive",
+      "Annotator_5": "Very positive"
+    },
+    "topic": {
+      "Annotator_1": "\"Energy storage and supplying energy in The Netherlands",
+      "Annotator_2": "Municipality and residents engagement in the energy sector, Energy storage and supplying energy in The Netherlands",
+      "Annotator_3": "Municipality and residents engagement in the energy sector, Energy storage and supplying energy in The Netherlands",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": "Energy storage in The Netherlands"
+    },
+    "values": {
+      "Annotator_1": "Security: personal, Universalism: objectivity",
+      "Annotator_2": "",
+      "Annotator_3": "Conformity: rules, Universalism: objectivity",
+      "Annotator_4": "Power: dominance, Security: societal",
+      "Annotator_5": "Benevolence: dependability, Power: dominance"
+    }
+  },
+  {
+    "sentence": "Clustering can be done in places licensed by the municipality, creating at least sufficient capacity for all residents, possibly with the exception of energy guzzlers, from whom own initiative can be expected.",
+    "argument": {
+      "Annotator_1": "None",
+      "Annotator_2": "None",
+      "Annotator_3": "None",
+      "Annotator_4": "None",
+      "Annotator_5": "None"
+    },
+    "emotion": {
+      "Annotator_1": "",
+      "Annotator_2": "",
+      "Annotator_3": "",
+      "Annotator_4": "",
+      "Annotator_5": ""
+    },
+    "sentiment": {
+      "Annotator_1": "Neutral",
+      "Annotator_2": "Neutral",
+      "Annotator_3": "Neutral",
+      "Annotator_4": "Neutral",
+      "Annotator_5": "Neutral"
+    },
+    "topic": {
+      "Annotator_1": "",
+      "Annotator_2": "",
+      "Annotator_3": "",
+      "Annotator_4": "Municipality and residents engagement in the energy sector",
+      "Annotator_5": ""
+    },
+    "values": {
+      "Annotator_1": "",
+      "Annotator_2": "",
+      "Annotator_3": "",
+      "Annotator_4": "",
+      "Annotator_5": ""
+    }
+  }
+]
